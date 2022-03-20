@@ -1,4 +1,4 @@
-# Projeto da discplina de Introdução à Ciência de Dados do Programa de Pós-Graduação do Departamento de Informática da PUC-Rio.
+# Projeto da disciplina de Introdução à Ciência de Dados do Programa de Pós-Graduação do Departamento de Informática da PUC-Rio.
 
 ## Alunos
 
