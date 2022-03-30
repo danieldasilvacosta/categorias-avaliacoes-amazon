@@ -8,4 +8,5 @@ pyvenv.cfg
 notebooks/.ipynb_checkpoints/*
 notebooks/datasets/.ipynb_checkpoints/*
 .DS_Store
-\.DS_Store
+.*
+!.gitignore
