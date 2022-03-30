@@ -6,4 +6,5 @@ Scripts/*
 share/*
 pyvenv.cfg
 notebooks/.ipynb_checkpoints/*
-datasets/.ipynb_checkpoints/*
+notebooks/datasets/.ipynb_checkpoints/*
+.DS_Store
