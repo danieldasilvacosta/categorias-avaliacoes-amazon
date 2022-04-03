@@ -1,0 +1,414 @@
+Beginning web scrapping at 03/04/2022 15:55:53
+
+Books already found in the csv file:
+	8550807567
+	8576082675
+	8551006754
+	8532606261
+	6555320516
+	8501304468
+	8573258926
+	8555340896
+	6599039812
+	8535909559
+	8584391509
+	8535933395
+	8501117684
+	8580411971
+	8555340942
+	8537631248
+	8595081514
+	8501076252
+	8594541473
+	6555942479
+	8546501459
+	8571832641
+	6553623163
+	8501105732
+	8543107202
+	8543109701
+	8532649963
+	8594541635
+	6599096387
+	8543105692
+	8535933921
+	8584391401
+	8577876853
+	6580309318
+	8582892101
+	8578601777
+	8550802751
+	8580412382
+	8545202210
+	8555341620
+	8584391673
+	8542218752
+	8595083274
+	8538058975
+	6556402583
+	8543102146
+	8543108683
+	8573020806
+	8508196555
+	8595081530
+	6555651059
+	8542209826
+	8555341612
+	8543106591
+	8574068012
+	6558380544
+	8547000240
+	8543105293
+	8551002341
+	8584440739
+	8555342015
+	8501117846
+	6555111100
+	6555127279
+	6558820250
+	8576849941
+	8565765482
+	6555605588
+	8575422391
+	8574069051
+	8565765695
+	8544106595
+	8568014003
+	8538092405
+	8535932879
+	8537631191
+	8555341922
+	8532530788
+	8543104335
+	6555650842
+	8539004119
+	8501112518
+	6555650001
+	6555871784
+	8568014542
+	8595084742
+
+ 86 books where found.
+	Server response status code: 200
+
+Going to read the book #1 whose id is 8595081530
+	Book #1 whose id is 8595081530 is already stored in the file.
+
+Going to read the book #2 whose id is 856240988
+	Book #2 whose id is: 856240988, reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #3 whose id is 8501112518
+	Book #3 whose id is 8501112518 is already stored in the file.
+
+Going to read the book #4 whose id is 8550802751
+	Book #4 whose id is 8550802751 is already stored in the file.
+
+Going to read the book #5 whose id is 853252978
+	Book #5 whose id is: 853252978, reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #6 whose id is 8568014003
+	Book #6 whose id is 8568014003 is already stored in the file.
+
+Going to read the book #7 whose id is 8584391509
+	Book #7 whose id is 8584391509 is already stored in the file.
+
+Going to read the book #8 whose id is 8595083274
+	Book #8 whose id is 8595083274 is already stored in the file.
+
+Going to read the book #9 whose id is 8538058975
+	Book #9 whose id is 8538058975 is already stored in the file.
+
+Going to read the book #10 whose id is 857351549
+	Book #10 whose id is: 857351549, reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #11 whose id is 6556402583
+	Book #11 whose id is 6556402583 is already stored in the file.
+
+Going to read the book #12 whose id is 8594541635
+	Book #12 whose id is 8594541635 is already stored in the file.
+
+Going to read the book #13 whose id is 6580309318
+	Book #13 whose id is 6580309318 is already stored in the file.
+
+Going to read the book #14 whose id is 8584440739
+	Book #14 whose id is 8584440739 is already stored in the file.
+
+Going to read the book #15 whose id is 6553623163
+	Book #15 whose id is 6553623163 is already stored in the file.
+
+Going to read the book #16 whose id is 853900383
+	Book #16 whose id is: 853900383, reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #17 whose id is 8543104335
+	Book #17 whose id is 8543104335 is already stored in the file.
+
+Going to read the book #18 whose id is 8547000240
+	Book #18 whose id is 8547000240 is already stored in the file.
+
+Going to read the book #19 whose id is 8542218752
+	Book #19 whose id is 8542218752 is already stored in the file.
+
+Going to read the book #20 whose id is 8568014542
+	Book #20 whose id is 8568014542 is already stored in the file.
+
+Going to read the book #21 whose id is 6555127279
+	Book #21 whose id is 6555127279 is already stored in the file.
+
+Going to read the book #22 whose id is 8501117684
+	Book #22 whose id is 8501117684 is already stored in the file.
+
+Going to read the book #23 whose id is 8539004119
+	Book #23 whose id is 8539004119 is already stored in the file.
+
+Going to read the book #24 whose id is 8555342015
+	Book #24 whose id is 8555342015 is already stored in the file.
+
+Going to read the book #25 whose id is 8595084742
+	Book #25 whose id is 8595084742 is already stored in the file.
+
+Going to read the book #26 whose id is 6555320516
+	Book #26 whose id is 6555320516 is already stored in the file.
+
+Going to read the book #27 whose id is 6555651059
+	Book #27 whose id is 6555651059 is already stored in the file.
+
+Going to read the book #28 whose id is 8573258926
+	Book #28 whose id is 8573258926 is already stored in the file.
+
+Going to read the book #29 whose id is 8535909559
+	Book #29 whose id is 8535909559 is already stored in the file.
+
+Going to read the book #30 whose id is 8571832641
+	Book #30 whose id is 8571832641 is already stored in the file.
+
+Going to read the book #31 whose id is 8555340942
+	Book #31 whose id is 8555340942 is already stored in the file.
+
+Going to read the book #32 whose id is 8575422391
+	Book #32 whose id is 8575422391 is already stored in the file.
+
+Going to read the book #33 whose id is 8574068012
+	Book #33 whose id is 8574068012 is already stored in the file.
+
+Going to read the book #34 whose id is 8532606261
+	Book #34 whose id is 8532606261 is already stored in the file.
+
+Going to read the book #35 whose id is 6555650001
+	Book #35 whose id is 6555650001 is already stored in the file.
+
+Going to read the book #36 whose id is 8555340896
+	Book #36 whose id is 8555340896 is already stored in the file.
+
+Going to read the book #37 whose id is 8543102146
+	Book #37 whose id is 8543102146 is already stored in the file.
+
+Going to read the book #38 whose id is 8550807567
+	Book #38 whose id is 8550807567 is already stored in the file.
+
+Going to read the book #39 whose id is 8578601777
+	Book #39 whose id is 8578601777 is already stored in the file.
+
+Going to read the book #40 whose id is 8546501459
+	Book #40 whose id is 8546501459 is already stored in the file.
+
+Going to read the book #41 whose id is 6555111100
+	Book #41 whose id is 6555111100 is already stored in the file.
+
+Going to read the book #42 whose id is 8543108683
+	Book #42 whose id is 8543108683 is already stored in the file.
+
+Going to read the book #43 whose id is 8543107202
+	Book #43 whose id is 8543107202 is already stored in the file.
+
+Going to read the book #44 whose id is 8555341612
+	Book #44 whose id is 8555341612 is already stored in the file.
+
+Going to read the book #45 whose id is 8538092405
+	Book #45 whose id is 8538092405 is already stored in the file.
+
+Going to read the book #46 whose id is 
+	Book #46 whose id is: , reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+	Server response status code: 200
+
+Going to read the book #47 whose id is 8542209826
+	Book #47 whose id is 8542209826 is already stored in the file.
+
+Going to read the book #48 whose id is 8580411971
+	Book #48 whose id is 8580411971 is already stored in the file.
+
+Going to read the book #49 whose id is 8508196555
+	Book #49 whose id is 8508196555 is already stored in the file.
+
+Going to read the book #50 whose id is 8582892101
+	Book #50 whose id is 8582892101 is already stored in the file.
+
+Going to read the book #51 whose id is 8574069051
+	Book #51 whose id is 8574069051 is already stored in the file.
+
+Going to read the book #52 whose id is 8532530788
+	Book #52 whose id is 8532530788 is already stored in the file.
+
+Going to read the book #53 whose id is 8501076252
+	Book #53 whose id is 8501076252 is already stored in the file.
+
+Going to read the book #54 whose id is 6555871784
+	Book #54 whose id is 6555871784 is already stored in the file.
+
+Going to read the book #55 whose id is 8543106591
+	Book #55 whose id is 8543106591 is already stored in the file.
+
+Going to read the book #56 whose id is 8551006754
+	Book #56 whose id is 8551006754 is already stored in the file.
+
+Going to read the book #57 whose id is 8584391401
+	Book #57 whose id is 8584391401 is already stored in the file.
+
+Going to read the book #58 whose id is 8577876853
+	Book #58 whose id is 8577876853 is already stored in the file.
+
+Going to read the book #59 whose id is 8584391673
+	Book #59 whose id is 8584391673 is already stored in the file.
+
+Going to read the book #60 whose id is 8501105732
+	Book #60 whose id is 8501105732 is already stored in the file.
+
+Going to read the book #61 whose id is 8535933395
+	Book #61 whose id is 8535933395 is already stored in the file.
+
+Going to read the book #62 whose id is 8543105293
+	Book #62 whose id is 8543105293 is already stored in the file.
+
+Going to read the book #63 whose id is 6599096387
+	Book #63 whose id is 6599096387 is already stored in the file.
+
+Going to read the book #64 whose id is 
+	Book #64 whose id is: , reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #65 whose id is 854520034
+	Book #65 whose id is: 854520034, reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #66 whose id is 8501304468
+	Book #66 whose id is 8501304468 is already stored in the file.
+
+Going to read the book #67 whose id is 8543109701
+	Book #67 whose id is 8543109701 is already stored in the file.
+
+Going to read the book #68 whose id is 8565765482
+	Book #68 whose id is 8565765482 is already stored in the file.
+
+Going to read the book #69 whose id is 8535933921
+	Book #69 whose id is 8535933921 is already stored in the file.
+
+Going to read the book #70 whose id is 8576849941
+	Book #70 whose id is 8576849941 is already stored in the file.
+
+Going to read the book #71 whose id is 8551002341
+	Book #71 whose id is 8551002341 is already stored in the file.
+
+Going to read the book #72 whose id is 
+	Book #72 whose id is: , reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #73 whose id is 8580412382
+	Book #73 whose id is 8580412382 is already stored in the file.
+
+Going to read the book #74 whose id is 6555650842
+	Book #74 whose id is 6555650842 is already stored in the file.
+
+Going to read the book #75 whose id is 8543105692
+	Book #75 whose id is 8543105692 is already stored in the file.
+
+Going to read the book #76 whose id is 8545202210
+	Book #76 whose id is 8545202210 is already stored in the file.
+
+Going to read the book #77 whose id is 8555341922
+	Book #77 whose id is 8555341922 is already stored in the file.
+
+Going to read the book #78 whose id is 655560302
+	Book #78 whose id is: 655560302, reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #79 whose id is 6599039812
+	Book #79 whose id is 6599039812 is already stored in the file.
+
+Going to read the book #80 whose id is 8576082675
+	Book #80 whose id is 8576082675 is already stored in the file.
+
+Going to read the book #81 whose id is 854310663
+	Book #81 whose id is: 854310663, reading page #1
+		Server response status code: 404
+		Going to try next book (404).
+		Didn't find more reviews.
+
+Going to read the book #82 whose id is 6558380544
+	Book #82 whose id is 6558380544 is already stored in the file.
+
+Going to read the book #83 whose id is 8501117846
+	Book #83 whose id is 8501117846 is already stored in the file.
+
+Going to read the book #84 whose id is 8555341620
+	Book #84 whose id is 8555341620 is already stored in the file.
+
+Going to read the book #85 whose id is 8532649963
+	Book #85 whose id is 8532649963 is already stored in the file.
+
+Going to read the book #86 whose id is 8594541473
+	Book #86 whose id is 8594541473 is already stored in the file.
+
+Going to read the book #87 whose id is 6555942479
+	Book #87 whose id is 6555942479 is already stored in the file.
+
+Going to read the book #88 whose id is 6555605588
+	Book #88 whose id is 6555605588 is already stored in the file.
+
+Going to read the book #89 whose id is 8535932879
+	Book #89 whose id is 8535932879 is already stored in the file.
+
+Going to read the book #90 whose id is 8565765695
+	Book #90 whose id is 8565765695 is already stored in the file.
+
+Going to read the book #91 whose id is 8537631191
+	Book #91 whose id is 8537631191 is already stored in the file.
+
+Going to read the book #92 whose id is 8573020806
+	Book #92 whose id is 8573020806 is already stored in the file.
+
+Going to read the book #93 whose id is 8595081514
+	Book #93 whose id is 8595081514 is already stored in the file.
+
+Going to read the book #94 whose id is 6558820250
+	Book #94 whose id is 6558820250 is already stored in the file.
+
+Going to read the book #95 whose id is 8537631248
+	Book #95 whose id is 8537631248 is already stored in the file.
+
+Going to read the book #96 whose id is 8544106595
+	Book #96 whose id is 8544106595 is already stored in the file.
+
+Finished web scrapping at 03/04/2022 15:56:32
+96 books with reviews were found among top 100 books, 0 where saved and the script took 39.277988 seconds to complete.
